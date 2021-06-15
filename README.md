@@ -19,4 +19,4 @@ I love this place, for that reason **I´m loking for a remote developer job**. I
 * Node.
 
 # Databases #
-* MySQL
+* MySQL.
