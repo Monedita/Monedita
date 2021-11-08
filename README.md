@@ -8,15 +8,17 @@ I love this place, for that reason **I´m loking for a remote developer job**. I
 * **City:** Sineu, Mallorca, Baleares, Spain.
 
 # Programming Languages #
-* PHP.
 * Javascript.
+* PHP.
 * HTML5.
 * CSS.
 
 # Frameworks #
-* Laravel.
+* React.
 * Angular.
 * Node.
+* Laravel.
 
 # Databases #
+* FireBase.
 * MySQL.
