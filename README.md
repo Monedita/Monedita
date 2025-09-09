@@ -3,16 +3,23 @@ Hi mi name is **Gonzalo Garcia Ariño** and my nickname is *Monedita*, it means 
 
 # Programming Languages #
 * Javascript.
+* Python.
 * PHP.
 * HTML5.
 * CSS.
 
 # Frameworks #
 * React.
-* Angular.
 * Node.
+* Angular.
 * Laravel.
 
 # Databases #
 * FireBase.
 * MySQL.
+
+# Libraries #
+* Express
+* Axios
+* d3js
+* FastApi
